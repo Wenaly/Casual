@@ -1,14 +1,17 @@
 CASUAL ÖZELLİKLERİ
 
-LEGİT AURA AİM ALIR VURUR
-AİMASSİST AİM ALIR ONLY CLİCKİNG YANLIZ TIKLAMA MODUNDA ÇALIŞIR
-AUTOROD OTOMATİK OLTA ATAR
-ESP RAKİPLERİ DAHA İYİ GÖRMENİZİ SAĞLAR VE AİMASSİST ÖZELLİĞİ BUNA BAĞLI
-AİRJUMP 1DEN FAZLA ZIPLAMADIR  BU ÖZELLİKLE NOFALL AÇMIŞ OLUSRUNUZ VE BAN RİSKİ ÇOK YÜKSEKDİR !
-İGNORE CHAT CHATTEYKEN ÖZELLİĞİN AÇILIP KAPANMASINI ENGELLER AMA CHAT TUŞUNUN T OLMASI GEREKMEKTE
-TİTLE CHANGER OYUN İSMİNİ DEĞİŞTİRİR
-TOGGLE SOUNDS BİR ÖZELLİĞİ AÇTIĞINIZDA SES VERİR
-CPS BYPASSER - CPS LIMITINI KALDIRIR AMA BILGISAYAR ZAMANINIZ ÜZERİNDE DEĞİŞİKLİK YAPAR BU ÖZELLİĞİ KAPATTIĞINIZDA BİLGİSAYAR ZAMANINIZ TEKRAR OLDUĞU GİBİ ESKİSİNE DÖNECEKTİR
-LEFT CLİCKER RIGHT CLICKER 5-75 CPS VURABILIRSINIZ MAKRODUR
-![calciHtmlLogo](https://cdn.discordapp.com/attachments/983504075356246046/984233827398459393/unknown.png)
-![calciHtmlLogo](https://cdn.discordapp.com/attachments/981617089657864192/984234117820469248/unknown.png)
+AirJump - Birden fazla zıplamadır bu özellikle nofallda açmış olursunuz ve ban riski çok yüksektir
+CPS Bypasser - Craftrise Cps limitini kaldırır (Bilgisayar zamanınız üzerinde değişiklik yapmaktadır bu özelliği kapatırsanız bilgisayar zamanınız eski haline döner)
+ESP - Rakipleri Daha iyi Görmenizi Sağlar
+ArrayList - Hile Menüsünü Gösterir
+Toggle Sounds - Bir özelliği aktif ettiğinizde veya kapattığınızda ses verir
+Ignore Chat - Chatte bir özelliğin aktif olmasını engeller
+Title Changer - Oyunun ismini craftrise yerine 'Casual Client' yapar
+Left Clicker - 5-75 Cps Makro
+Right Clicker - 5-75 Cps Makro
+Aim Assist - Rakiplere daha iyi aim almanızı sağlar ve bu özellik için 'ESP' özelliğinin aktif olması zorunlu 'Only Clicking' ise sadece tıklama modunda çalışır
+LegitAura - AimAssist Ve Trigger Botttur Rakiplere daha iyi aim alıp vurabilirsiniz
+AutoRod - Otomatik Olta Atar 'AutoPerRod' özelliği ise sınırsız olta atar
+![calciHtmlLogo](https://cdn.discordapp.com/attachments/975938632328314893/985024227306516480/unknown.png)
+![calciHtmlLogo](https://cdn.discordapp.com/attachments/975938632328314893/985024432416362556/unknown.png)
+![calciHtmlLogo](https://cdn.discordapp.com/attachments/975938632328314893/985024535680127006/unknown.png)
