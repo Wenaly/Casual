@@ -24,7 +24,7 @@ LegitAura - AimAssist Ve Trigger Botttur Rakiplere daha iyi aim alıp vurabilirs
 
 AutoRod - Otomatik Olta Atar 'AutoPerRod' özelliği ise sınırsız olta atar
 
-[Hwidlerinizi](https://discord.gg/YtRPBHb3wy)
+Açtıktan Sonra [Hwidlerinizi](https://discord.gg/YtRPBHb3wy) Burdan Doğrulayın
 
 ![calciHtmlLogo](https://cdn.discordapp.com/attachments/975938632328314893/985024227306516480/unknown.png)
 ![calciHtmlLogo](https://cdn.discordapp.com/attachments/975938632328314893/985024432416362556/unknown.png)
