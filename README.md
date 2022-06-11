@@ -15,3 +15,5 @@ AutoRod - Otomatik Olta Atar 'AutoPerRod' özelliği ise sınırsız olta atar
 
 ![calciHtmlLogo](https://cdn.discordapp.com/attachments/975938632328314893/985024432416362556/unknown.png)
 ![calciHtmlLogo](https://cdn.discordapp.com/attachments/975938632328314893/985024535680127006/unknown.png)
+![calciHtmlLogo](https://cdn.discordapp.com/attachments/975938632328314893/985024227306516480/unknown.png)
+
