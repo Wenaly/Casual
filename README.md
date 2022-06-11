@@ -1,4 +1,4 @@
-##CASUAL ÖZELLİKLERİ
+CASUAL ÖZELLİKLERİ
 
 AirJump - Birden fazla zıplamadır bu özellikle nofallda açmış olursunuz ve ban riski çok yüksektir
 
